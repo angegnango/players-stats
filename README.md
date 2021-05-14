@@ -27,10 +27,10 @@ get the IP from docker console
 ### How to use
 ---
 
-Get a token
+Get a token and add it on Authorization header x-access-token = yourToken
 ![API Documentation](token.png)
 
-Add a player
+Add a player 
 ![API Documentation](addPlayer.png)
 
 Get player stat
